@@ -32,6 +32,20 @@ This profile represents my **cyber portfolio**, not a resume.
 
 ---
 
+## 🧠 SKILL RADAR (LIVE)
+
+<p align="center">
+  <img src="assets/skill-radar.svg" width="420"/>
+</p>
+
+Radar reflects:
+• Web Exploitation
+• Network Attacks
+• Red Team Ops
+• Automation & Scripting
+• Threat Intelligence
+• Cloud Security
+
 ## 🧠 CORE SKILL DOMAINS
 
 <p align="center">
