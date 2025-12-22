@@ -1,135 +1,93 @@
-<!-- HERO BANNER -->
+<!-- ================= CYBERPUNK HEADER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Reddy%20Vishnu%20Vardhan&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:7c00ff,100:ff0080&height=220&section=header&text=Reddy%20Vishnu%20Vardhan&fontSize=38&fontColor=ffffff&animation=twinkling" />
 </p>
 
 <h3 align="center">
-🛡️ Offensive Security • Penetration Testing • Automation • AI + Security
+🛡️ Offensive Security • Red Teaming • Automation • AI × Cyber
 </h3>
 
 <p align="center">
-  <a href="https://vishnu04.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=vercel&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/reddy-vishnu-vardhan-611016322/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:reddyvishnuv75@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Breaking+Systems+Ethically;Automating+Security+Pipelines;CTFs+%7C+Pentesting+%7C+AI+Security" />
 </p>
 
 ---
 
-## 👋 About Me
+## 🧬 WHOAMI
 
-I’m **Vishnu**, a cybersecurity enthusiast focused on **offensive security**, **real-world attack simulations**, and **automated vulnerability assessment**.  
-I enjoy breaking systems **ethically**, understanding attacker mindset, and building **defensive intelligence** to strengthen organizations.
+```bash
+$ whoami
+Cybersecurity Enthusiast | Offensive Security Specialist
 
-💡 Interests:
-- Red Teaming & Web Exploitation  
-- Automated Security Pipelines  
-- AI-assisted Vulnerability Detection  
-- Zero Trust & Cloud Security  
+$ mission
+Exploit → Learn → Automate → Defend
 
----
+$ focus
+Web Exploitation • Privilege Escalation • AI-Assisted Security
+```
 
-## 🧠 Tech Arsenal (Tools I Actually Use)
-
-### 🔍 Penetration Testing & Recon
-<p>
-  <img src="https://skillicons.dev/icons?i=kali,python,bash,linux" />
-</p>
-
-![Nmap](https://img.shields.io/badge/Nmap-004D40?style=flat&logo=linux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=portswigger&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-1F2937?style=flat&logo=metasploit&logoColor=white)
-![SQLmap](https://img.shields.io/badge/SQLmap-0f172a?style=flat)
-![Nikto](https://img.shields.io/badge/Nikto-7c3aed?style=flat)
-![Nuclei](https://img.shields.io/badge/Nuclei-2563eb?style=flat)
-![Nessus](https://img.shields.io/badge/Nessus-00B4D8?style=flat)
+I specialize in offensive security, real-world attack simulations, and automation-driven vulnerability assessment.
+I build tools that think like attackers so defenses can evolve faster.
 
 ---
 
-### 🌐 Network, Web & Threat Intelligence
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=flat&logo=owasp&logoColor=white)
-![MITRE](https://img.shields.io/badge/MITRE_ATT%26CK-FF0000?style=flat)
-![Shodan](https://img.shields.io/badge/Shodan-000000?style=flat&logo=shodan&logoColor=white)
+## 🛠️ CYBER TOOLCHAIN
+
+### 🔍 Offensive & Recon
+Kali Linux | Nmap | Burp Suite | Metasploit | SQLmap | Nuclei
+
+### 🌐 Threat Intel & Analysis
+Wireshark | OWASP | MITRE ATT&CK | Shodan
+
+### ⚙️ Automation & DevOps
+Python | Bash | Docker | n8n
 
 ---
 
-### ☁️ Cloud, DevOps & Automation
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-AE5EF0?style=flat)
+## 🚀 PROJECT SHOWCASE
 
----
-
-## 🚀 Featured Projects
-
-### 🔐 Automated Multi-Tool Vulnerability Scanner (AI Powered)
-> **Nmap + Nikto + OWASP + Nuclei + AI Chatbot**
-
-🔹 Automated scanning using **n8n**  
-🔹 AI-assisted vulnerability explanation  
-🔹 Designed for real-world testing pipelines  
-
-🔗 https://github.com/CyberVishnu24/Multi-Tool-Scanner
-
----
+### 🔐 Automated Multi-Tool Vulnerability Scanner
+- Integrated Nmap, Nikto, OWASP, Nuclei
+- Fully automated workflows using n8n
+- AI-assisted vulnerability interpretation
 
 ### 🌐 Automated Web Security Assessment Framework
-> **Recon + Scraping + AI Analysis**
+- Recon + scraping automation
+- AI-based security insights
+- Designed for scalable testing pipelines
 
-🔹 Website data scraping  
-🔹 AI-based security insights  
-🔹 Fully automated workflows  
-
-🔗 https://github.com/CyberVishnu24/Headerscan
-
----
-
-### 🤖 Botnet Detection (ML + DL)
-> **UNSW-NB15 | DAGMM | ALO Optimization**
-
-🔹 Statistical + Deep Learning approach  
-🔹 High-accuracy anomaly detection  
-🔹 Research-oriented implementation  
+### 🤖 Botnet Detection System
+- UNSW-NB15 dataset
+- ML + Deep Learning (DAGMM, ALO)
+- Statistical anomaly detection
 
 ---
 
-## 🏆 Achievements & CTFs
+## 🎮 CTF & HACKER ZONE
 
-🏅 IEEE Conference Paper – IoT Food Storage System (2025)  
-🏅 UST Global CTF – **Top 5**  
-🏅 TCS CTF Season-10 – 5 Flags  
-🏅 Codesangam Hackathon – Zero Trust SQL Server  
+[+] Platforms:
+    • University CTFs
+    • Industry Security Challenges
 
----
+[+] Techniques:
+    • Web Exploitation
+    • Enumeration & Recon
+    • Privilege Escalation
+    • Logic & Misconfiguration Attacks
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CyberVishnu24&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CyberVishnu24&theme=tokyonight" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CyberVishnu24&theme=react-dark" />
-</p>
+[+] Achievements:
+    • UST Global CTF – Top 5
+    • TCS CTF Season 10 – 5 Flags
+    • Codesangam Hackathon – Zero Trust SQL + Blockchain
 
 ---
 
-## 🌐 Let’s Connect
+## 🌐 LET’S CONNECT
 
-📌 Portfolio → https://vishnu04.netlify.app  
-📌 LinkedIn → https://www.linkedin.com/in/reddy-vishnu-vardhan-611016322/  
-📌 Email → reddyvishnuv75@gmail.com  
+Portfolio | LinkedIn | Email
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:0f2027&height=80&section=footer&text=Hack%20Responsibly%20🛡️&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff0080,100:00f5ff&height=90&section=footer&text=Hack%20Smart.%20Hack%20Ethical.%20🛡️&fontColor=ffffff&fontSize=18" />
 </p>
