@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">
-🛡️ Offensive Security • Red Teaming • Automation • AI × Cyber
+🛡️ Offensive Security • Pentesting • Red Teaming • Automation • AI × Cyber
 </h3>
 
 <p align="center">
@@ -21,7 +21,7 @@ $ whoami
 Reddy Vishnu Vardhan
 
 $ role
-Offensive Security | Penetration Tester
+Offensive Security | Penetration Tester | Vulnerability Assessment | Ethical Hacking
 
 $ mindset
 Think Like an Attacker • Build Like a Defender
@@ -40,9 +40,10 @@ This profile represents my **cyber portfolio**, not a resume.
 
 Radar reflects:
 • Web Exploitation
-• Network Attacks
+• Web Application Security
+• Network Security
 • Red Team Ops
-• Automation & Scripting
+• Automation & n8n
 • Threat Intelligence
 • Cloud Security
 
