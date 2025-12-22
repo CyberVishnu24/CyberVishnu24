@@ -35,7 +35,7 @@ This profile represents my **cyber portfolio**, not a resume.
 ## 🧠 SKILL RADAR (LIVE)
 
 <p align="center">
-  <img src="assets/skill-radar.svg" width="420"/>
+  <img src="https://raw.githubusercontent.com/CyberVishnu24/CyberVishnu24/main/.github/skill-radar.svg" width="420"/>
 </p>
 
 Radar reflects:
@@ -144,4 +144,8 @@ ACHIEVEMENTS:
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff0080,100:00f5ff&height=90&section=footer&text=Hack%20Smart%20•%20Hack%20Ethical&fontColor=ffffff&fontSize=18" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CyberVishnu24/CyberVishnu24/output/github-snake-dark.svg" />
 </p>
