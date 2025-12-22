@@ -2,10 +2,14 @@
   <br class="Apple-interchange-newline">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=FF0000&center=true&vCenter=true&width=800&height=60&lines=⚡+G.+REDDY+VISHNU+VARDHAN;OFFENSIVE+SECURITY+SPECIALIST;PENETRATION+TESTER;VULNERABILITY+ASSESSOR" alt="Billboard Animation" />
   
-  <div align="center">
-    <br>
-    <a href="https://www.linkedin.com/in/reddy-vishnu-vardhan-611016322/">
-      <img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.app?font=Fira+Code&size=32&pause=1000&color=F70000&center=true&vCenter=true&width=800&height=60&lines=G.+REDDY+VISHNU+VARDHAN;OFFENSIVE+SECURITY+SPECIALIST;PENETRATION+TESTER;RED+TEAMING+ENTHUSIAST" />
+  
+  <p>
+    <img src="https://img.shields.io/badge/BTech-Cybersecurity-red?style=for-the-badge&logo=kali-linux" />
+    <img src="https://img.shields.io/badge/Location-Bengaluru-blue?style=for-the-badge&logo=google-maps" />
+  </p>
+</div>
     </a>
     &nbsp;&nbsp;
     <a href="https://vishnu04.netlify.app/">
