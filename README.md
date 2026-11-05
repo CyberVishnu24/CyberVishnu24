@@ -129,10 +129,26 @@ ACHIEVEMENTS:
 
 ---
 
+## 🏅 CERTIFICATIONS
+
+<p>
+<img src="https://img.shields.io/badge/CEH-EC--Council_2026-E4002B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cisco-Ethical_Hacker_2025-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google-Cybersecurity_Certificate_2025-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</p>
+
+```txt
+✔ Certified Ethical Hacker (CEH) – EC-Council (2026) | ID: ECC9276180354
+✔ Ethical Hacker – Cisco (2025)
+✔ Google Cybersecurity Certificate – Coursera (2025)
+```
+
+---
+
 ## 🌐 CONNECT
 
 <p align="center">
-  <a href="https://vishnu04.netlify.app">
+  <a href="https://vishnu-v6.netlify.app/">
     <img src="https://img.icons8.com/fluency/48/domain.png"/>
   </a>
   <a href="https://www.linkedin.com/in/reddy-vishnu-vardhan-611016322/">
